@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 3%;
+}
+
+.top{
+    text-align: center;
+}
+.top  h1{
+
+    color: #252b7d;
+    font-size: 30px;
+     
+}
+
+
+
+
+.education h2{
+  color: brown;
+}
+.skills h2{
+  color: brown;
+}
+.projects h2{
+  color: brown;
+}
+.top{
+  background-color: rgb(191, 208, 241);
+}
+.education{
+  background-color: rgb(237, 237, 194);
+}
+.skills{
+  background-color: rgb(237, 237, 194);
+}
+.projects{
+  background-color: rgb(237, 237, 194);
+}
+
+
+
+
